@@ -8,6 +8,7 @@
   bio:
     birthday: '1732-02-22'
     gender: M
+    religion: Christian
   terms:
   - type: prez
     start: '1789-04-30'
